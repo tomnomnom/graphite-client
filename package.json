@@ -1,0 +1,17 @@
+{
+  "author": "Tom Hudson <mail@tomnomnom.com> (http://tomnomnom.com)",
+  "name": "graphite-client",
+  "description": "Really simple plain-text graphite client",
+  "version": "0.0.1",
+  "homepage": "https://github.com/TomNomNom/graphite-client",
+  "repository": {
+    "url": "https://github.com/TomNomNom/graphite-client"
+  },
+  "main": "graphite-client",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
