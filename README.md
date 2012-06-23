@@ -1,3 +1,3 @@
 # graphite-client
 
-## A really simple plain-text graphite client module 
+A really simple plain-text graphite client module.
